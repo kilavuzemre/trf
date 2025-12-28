@@ -1,0 +1,7 @@
+{
+  "name": "Fethiye Trafik Tim Planlama Portalı",
+  "description": "Fethiye İlçe Jandarma Komutanlığı Trafik Timleri için görev planlama, takip ve analiz uygulaması.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
